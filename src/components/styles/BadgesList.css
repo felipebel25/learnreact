@@ -1,0 +1,37 @@
+.Badgess {
+  display: flex;
+  width: auto;
+  height: auto;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+  padding-left: unset;
+}
+
+.Badge__li {
+  display: flex;
+  margin-bottom: 2rem;
+  background-color: #1b1b25;
+  background-image: url("../../images/stars.svg");
+  border-radius: 1rem;
+  width: 100vw;
+}
+.Badge__imagen {
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  width: auto;
+  height: auto;
+}
+.Badge__imagen img {
+  width: 70%;
+  height: 70%;
+  border-radius: 45%;
+}
+.Badge__textos {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  height: auto;
+  padding-left: 5%;
+  color: white;
+}

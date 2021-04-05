@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 
 import PageLoading from '../components/PageLoading'
 import BadgeRick from '../components/BadgeRick'
-import api from '../api'
 
 
 class fetchrick extends React.Component {

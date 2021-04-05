@@ -5,7 +5,6 @@ import './styles/BadgeNew.css'
 
 import BadgeForm from '../components/BadgeForm';
 import header from '../images/platziconf-logo.svg'
-import obito from '../images/Jeune_Obito_Uchiwa.jpg'
 import PageLoading from '../components/PageLoading'
 import Badge from '../components/Badge';
 

@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import confLogo from '../images/platziconf-logo.svg'
 import './styles/BadgeDetails.css'
 import '../styles/Badge.css';
-import PageLoading from '../components/PageLoading'
 import Badge from '../components/Badge';
 import DeleteBadgeModal from '../components/DeleteBadgeModal'
 

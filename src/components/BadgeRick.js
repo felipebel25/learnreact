@@ -2,7 +2,6 @@
 import React from 'react';
 import '../styles/BadgeRick.css';
 
-import Gravatar from './Gravatar'
 import confLogo from '../images/Rick_and_Morty_logo.png'
 
 

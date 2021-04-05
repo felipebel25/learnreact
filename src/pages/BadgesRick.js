@@ -3,7 +3,6 @@ import '../styles/BadgeRick.css';
 import '../components/styles/BadgesList.css'
 import confLogo from '../images/Rick_and_Morty_logo.png'
 
-import Skeleton, { SkeletonTheme } from '../components/skeleton'
 import PageLoading from '../components/PageLoading'
 import { Link } from 'react-router-dom'
 

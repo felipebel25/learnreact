@@ -10,8 +10,6 @@ class BadgeForm extends React.Component{
 
     }
 
-
-
     render(){
         return(
             <div>
